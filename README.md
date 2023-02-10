@@ -1,6 +1,6 @@
 ### Hi, I'm Gosia 👋
 
-I’m currently working on improving my data engineering skills 👷🏻‍♀️.  
+I’m currently working on my data engineering skills 👷🏻‍♀️.  
 Here you will find small projects that help me get to know different technologies.
 
 <!--
