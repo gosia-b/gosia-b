@@ -1,7 +1,7 @@
 ### Hi, I'm Gosia 👋
 
 I’m currently working on my data engineering skills.  
-Here you will find small projects that help me get to know different technologies.
+Here you will find projects that help me practice different technologies.
 
 <!--
 **gosia-b/gosia-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
